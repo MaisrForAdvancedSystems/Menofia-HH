@@ -1,1 +1,1 @@
-# Billing And Mas Intgration Process
+# Billing And Mas Integration Process
